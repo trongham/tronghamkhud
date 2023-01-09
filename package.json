@@ -20,7 +20,7 @@
     "@octokit/rest": "^16.38.1",
     "@primer/css": "^15.1.0",
     "@primer/octicons": "^11.0.0",
-    "algoliasearch": "^3.35.1",
+    "algoliasearch": "^4.0.0",
     "babel-loader": "^8.1.0",
     "browser-date-formatter": "^3.0.3",
     "change-case": "^3.1.0",
@@ -70,7 +70,7 @@
     "style-loader": "^1.2.1",
     "uuid": "^8.3.0",
     "walk-sync": "^1.1.4",
-    "webpack": "^4.44.0",
+    "webpack": "^5.0.0",
     "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
